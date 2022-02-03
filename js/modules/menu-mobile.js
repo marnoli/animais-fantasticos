@@ -10,7 +10,6 @@ export default function initMenuMobile() {
       menuList.classList.add('active')
       menuButton.classList.add('active')
       outSideClick(menuList, eventos, () => {
-
         menuList.classList.remove('active')
         menuButton.classList.remove('active')
       })
