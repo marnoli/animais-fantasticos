@@ -1,5 +1,5 @@
 {
-  "name": "automacao-frontend",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -11,7 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/marnoli/animais-fantasticos.git"
   },
-  "author": "Marcelo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/marnoli/animais-fantasticos/issues"
